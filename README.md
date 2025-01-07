@@ -1,2 +1,3 @@
 # Celestial-Crater-Mapper-AI-Powered-Object-Detection-in-Astronomical-Imagery
 Celestial Crater Mapper 🌌 AI-Powered Crater Detection in Astronomical Imagery  
+This repository contains the code, datasets, and documentation for the Celestial Crater Mapper, an innovative AI-powered system for automated crater detection on lunar and Martian surfaces. Built using YOLOv8, the project leverages state-of-the-art object detection techniques to identify and analyze craters with high accuracy and efficiency. The system supports planetary surface analysis, geological mapping, and space exploration initiatives.
